@@ -1,6 +1,3 @@
-#Calculadora-media-academica
-Implementação de cálculos matemáticos convertendo tipos de dados (float) e utilizando estruturas condicionais (if/else) para verificar aprovação.
-
 🧮 Calculadora de Médias Acadêmicas
 Este projeto é uma aplicação desktop desenvolvida em Python para facilitar o cálculo de médias escolares ou universitárias. O que começou como um script simples de terminal evoluiu para uma ferramenta com interface gráfica moderna.
 
