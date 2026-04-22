@@ -1,4 +1,4 @@
-# alculadora-media-academica
+#Calculadora-media-academica
 Implementação de cálculos matemáticos convertendo tipos de dados (float) e utilizando estruturas condicionais (if/else) para verificar aprovação.
 
 🧮 Calculadora de Médias Acadêmicas
